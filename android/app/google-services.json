@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "282852575100",
+    "project_id": "opchoo-f02f7",
+    "storage_bucket": "opchoo-f02f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282852575100:android:8487facb170fb30c2b46f9",
+        "android_client_info": {
+          "package_name": "com.example.Opchoo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282852575100-6huv4po7jgbeoe6q4ncq9o6v39e4ee95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA28nDWa2a-HYMG2le5aWdbu-Vtu_sp9Hs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282852575100-6huv4po7jgbeoe6q4ncq9o6v39e4ee95.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
